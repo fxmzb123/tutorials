@@ -278,8 +278,8 @@ collections:
   openstack-cli:
     output: true
     permalink: /:collection/:name
-    title: openstack cli
-    summary: "A basic introduction to Nectar Cloud Openstack command line interface(CLI)"
+    title: OpenStack Cli
+    summary: "A basic introduction to Nectar Cloud OpenStack command line interface (Cli)"
     category: Intermediate
     tags:
       - tutorial
